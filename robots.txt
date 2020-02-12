@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oosholashu.georg-henkel.de/sitemap.xml
